@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/raspbians/tf/bin/python",
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist = keras"
+    ]
+}
